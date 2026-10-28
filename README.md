@@ -68,3 +68,16 @@ Add links to actual prototype photos and demonstration videos here.
 
 ## 11. Safety Note
 This project is an experimental early-warning prototype. It must not replace official emergency warnings or professional monitoring systems.
+## Prototype Photos
+
+![Prototype Setup](media/prototype_setup.jpg)
+
+![Sensor Testing](media/sensor_testing.jpg)
+
+## Working Demonstration
+
+[Watch the project demonstration](media/working_demo.mp4)
+
+## Project Status
+
+Photos and videos document the prototype's actual assembly and testing progress. Features that have not yet been physically tested are marked as pending.
